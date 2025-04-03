@@ -1,0 +1,54 @@
+{
+    "users": {
+        "1": {
+            "id": "1",
+            "name": "mounish",
+            "email": "mounish@gmail.com",
+            "contactNumber": "9182925547",
+            "country": "india",
+            "gender": "Male",
+            "username": "mounish",
+            "password": "21mic7028"
+        },
+        "1722442387583": {
+            "id": "1722442387583",
+            "name": "reddy",
+            "email": "mounishredy@gmail.com",
+            "contactNumber": "9182925547",
+            "country": "India",
+            "gender": "male",
+            "username": "reddy",
+            "password": "reddy2"
+        },
+        "1722490651904": {
+            "id": "1722490651904",
+            "name": "charan",
+            "email": "charan@gmail.com",
+            "contactNumber": "929646659",
+            "country": "India",
+            "gender": "male",
+            "username": "charan",
+            "password": "21mic7090"
+        }
+    },
+    "translations": {
+        "1": {
+            "translationId": "1",
+            "userId": "1",
+            "filename": "doc.docx",
+            "words": "345",
+            "targetLanguage": "es",
+            "date": "2024-08-30",
+            "time": "12:00:00"
+        },
+        "2": {
+            "translationId": "2",
+            "userId": "2",
+            "filename": "doci.docx",
+            "words": "375",
+            "targetLanguage": "es",
+            "date": "2024-08-31",
+            "time": "12:00:00"
+        }
+    }
+}
